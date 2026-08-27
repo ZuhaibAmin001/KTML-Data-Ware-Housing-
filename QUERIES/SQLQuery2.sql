@@ -1,0 +1,9 @@
+CREATE DATABASE KTML_InventoryDW
+
+USE KTML_InventoryDW;
+
+CREATE SCHEMA bronze;
+
+CREATE SCHEMA silver;
+
+CREATE SCHEMA gold;
